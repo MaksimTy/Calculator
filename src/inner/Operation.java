@@ -7,6 +7,7 @@ public class Operation {
     private String operation;
     private boolean isOperation; //флаг, указывающий, что была операция
 
+
     public String getOperation() {
         return operation;
     }
